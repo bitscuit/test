@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         // initial commit 2
+        // test rebase comment
     }
 
     @Override
