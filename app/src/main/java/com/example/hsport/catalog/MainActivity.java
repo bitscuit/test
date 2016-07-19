@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         // test rebase comment
         // test rebase comment 2
         // test rebase comment 3
+        // test master merge branch
     }
 
     @Override
