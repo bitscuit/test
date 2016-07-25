@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         // initial commit 3
         // create pull request 3-1
+        // branch2 commit 1
     }
 
     @Override
