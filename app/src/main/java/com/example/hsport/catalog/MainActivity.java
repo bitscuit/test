@@ -16,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         // initial commit 3
-        // branch 3
-        // branch 3 pull request 1
+        // branch 4
     }
 
     @Override
