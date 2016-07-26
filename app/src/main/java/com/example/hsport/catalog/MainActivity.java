@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        // initial commit 4
-        // branch 5
-        // branch 5 pull request 1
+        // initial commit 5
+        // merge conflict test
+        // 2
     }
 
     @Override
