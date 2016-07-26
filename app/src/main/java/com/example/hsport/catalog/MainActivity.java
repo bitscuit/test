@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         // initial commit 5
         // merge conflict test
+        // 2
     }
 
     @Override
