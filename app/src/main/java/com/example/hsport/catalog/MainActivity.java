@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         // initial commit 4
         // test rebase 1
+        // test rebase 2
     }
 
     @Override
