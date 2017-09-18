@@ -1,14 +1,22 @@
 {
-    "name": "github-test",
-    "version": "1.0.0",
-    "description": "Testing github node dependency",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error no test specified\" && exit 1"
-    },
-    "keywords": [
-        "test"
-    ],
-    "author": Henry Li",
-    "license": "ISC"
+  "name": "github-test",
+  "version": "1.0.0",
+  "description": "github dependency test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitscuit/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Henry Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitscuit/test/issues"
+  },
+  "homepage": "https://github.com/bitscuit/test#readme"
 }
